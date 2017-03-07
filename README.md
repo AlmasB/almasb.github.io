@@ -8,4 +8,4 @@ Potential employer? Check out the latest version of my [CV](https://github.com/A
 
 ## Contact
 
-[![GitHub](:fa-github:)](https://github.com/AlmasB)
+<a href="https://github.com/AlmasB"><i class="fa fa-github"></i></a>
