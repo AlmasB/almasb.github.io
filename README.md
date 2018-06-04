@@ -1,27 +1,20 @@
-Updated 07/03/2017.
+Updated 04/06/2018.
 
 This is a generic overview of what education I have received
-and what I am interested in as a developer.
+and what I am interested in as a researcher and software developer.
 For more details please refer to the CV at the bottom of this page.
 
-## Background
+## Education
 
-My academic background and overall experience consist of:
+I am currently in the final year of my PhD in Computer Science.
+I hold First Class Honours in Computer Science with specialisation in Games.
 
-Area                  | % of overall experience
-:---:                 | :---:
-Software Development  | 40
-Game Development      | 30
-Computer Science      | 20
-Mathematics           | 10
+## Research
 
-Having finished school, I have studied English as a second language
-(third considering bilingualism).
-Thereafter, I took a foundation course in IT and applied for
-a BSc in Computer Games, which I have completed with First Class Honours.
-Currently I am halfway through my PhD in the area of data visualization.
-My research project is focused on grouped networks, i.e.
-data items that have relationships between each other and can also belong to multiple groups.
+My PhD research project is focused on visualizing "grouped networks",
+which are data items that have relationships between each other and can also belong to groups.
+The visualizations are a combination of an Euler diagram and a graph.
+My thesis sets out to provide theoretical techniques for automated visualization of grouped networks.
 The project draws on knowledge from the following areas:
 
 * Set Theory
@@ -53,8 +46,7 @@ It also features a collection of game development tutorials ranging from beginne
 
 ## CV
 
-Are you a potential employer?
-Check out the latest version of my [CV](https://github.com/AlmasB/CV/blob/master/cv.pdf).
+The latest version of my [CV](https://github.com/AlmasB/CV/blob/master/cv.pdf).
 
 ## Contact & Links
 
