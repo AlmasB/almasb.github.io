@@ -1,48 +1,37 @@
-Updated 04/06/2018.
+Updated 14/08/2020.
 
-This is a generic overview of what education I have received
-and what I am interested in as a researcher and software developer.
-For more details please refer to the CV at the bottom of this page.
+I am a Senior Lecturer in Computing at Brighton University and a **big** fan of open-source software. In my spare time, I run an educational [YouTube channel](https://www.youtube.com/almasb0/videos) focusing on Java and JavaFX, as well as game development tutorials. My [open-source work](https://github.com/AlmasB) can be supported on [GitHub](https://github.com/sponsors/AlmasB), where I am also, sometimes, available for hire.
 
-## Education
+This is an overview of what projects I am interested in for supervision (both undergraduate and postgraduate).
 
-I am currently in the final year of my PhD in Computer Science.
-I hold First Class Honours in Computer Science with specialisation in Games.
+## Supervision (Final Year Project)
 
-## Research
+The projects I am interested in will typically result in a software product. If you are producing a website, a 3D model or some other type of product, it is likely that my colleagues can contribute more in terms of supervision, so please consider contacting them first.
 
-My PhD research project is focused on visualizing "grouped networks",
-which are data items that have relationships between each other and can also belong to groups.
-The visualizations are a combination of an Euler diagram and a graph.
-My thesis sets out to provide theoretical techniques for automated visualization of grouped networks.
-The project draws on knowledge from the following areas:
+The final year project combines both development and academic writing skills. An outstanding project typically identifies a problem in the area and solves it in a unique, more effective and/or original way. An outstanding project will also have a very specific focus of topic (e.g. behaviour trees, rather than Game AI, which is very broad) and a clear aim.
 
+A poor project typically tries to do everything, without clear goals. An example of a poor project is one that develops an app or a game for the sake of developing it, or a project that reimplements a well-known algorithm without major changes.
+
+As your supervisor, I will offer both technical support and academic guidance. Furthermore, I will proofread and provide feedback on your report. It is likely that the student and I will meet on a weekly basis to ensure progress is being made. In return, I expect a potential student to be enthusiastic about their project and punctual when it comes to completing assigned work.
+
+There are limits to how many students I can supervise in an academic year, so please email me as soon as you have a basic proposal.
+
+## Supervision (Masters and PhD)
+
+I am particularly interested in supervising implementation-driven projects, i.e. where a large portion of research requires turning theory into practice. The main challenges in these types of projects are developing theory and overcoming obstacles that arise when bringing this new theory to life in a piece of software.
+
+Project topics of interest:
+
+* Computer Science
+* Software Development
+* Game Development
 * Set Theory
 * Graph Theory
 * Topology
 * Computational Geometry & Graphics
 * Euler Diagrams
 
-## Interests & Activities
-
-In my spare time I like learning about new technologies and writing software.
-My open-source projects are available
-on <a target="_blank" href="https://github.com/AlmasB"><i class="fa fa-github fa-2x"></i></a>.
-
-One of my notable projects is [FXGL](https://github.com/AlmasB/FXGL).
-It is a game development framework that is primarily aimed at academic projects.
-The framework does not require any extra setup steps or installation.
-This makes the library suitable for the academic environment, e.g. schools, colleges, universities.
-In addition, FXGL integrates with many game development tools and provides a wide range
-of techniques used in the industry.
-Hence, the framework can be used to aid teaching of game development courses.
-
-When I am not developing software, I deliver lectures and tutorials in Computer Science
-and Game Development at college and university levels.
-I also run an educational YouTube channel,
-available at <a target="_blank" href="https://www.youtube.com/almasb0/videos"><i class="fa fa-youtube fa-2x"></i></a>.
-The channel mainly covers technologies related to the Java programming language.
-It also features a collection of game development tutorials ranging from beginner to advanced levels.
+If you would like to do a PhD under my supervision, feel free to drop me an email. [University Contact Details](https://research.brighton.ac.uk/en/persons/almas-baimagambetov).
 
 ## CV
 
@@ -50,7 +39,6 @@ The latest version of my [CV](https://github.com/AlmasB/CV/blob/master/cv.pdf).
 
 ## Contact & Links
 
-[![Gmail](https://img.shields.io/badge/Email-almaslvl@gmail.com-red.svg)](https://plus.google.com/+AlmasB0/about)
-
 <a target="_blank" href="https://linkedin.com/in/AlmasB"><i class="fa fa-linkedin-square fa-2x"></i></a>
-<a target="_blank" href="https://plus.google.com/+AlmasB0"><i class="fa fa-google-plus-official fa-2x"></i></a>
+<a target="_blank" href="https://twitter.com/AlmasBaim"><i class="fa fa-twitter fa-2x"></i></a>
+<a target="_blank" href="https://www.youtube.com/almasb0/videos"><i class="fa-youtube fa-2x"></i></a>
