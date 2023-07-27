@@ -1,6 +1,6 @@
-Updated 26/09/2021.
+Updated 27/07/2023.
 
-I am a Senior Lecturer and Computing and Games Lead at Brighton University and a **big** fan of open-source software. In my spare time, I run an educational [YouTube channel](https://www.youtube.com/almasb0/videos) focusing on Java, JavaFX, Kotlin, C++, as well as game development tutorials using Unity and Unreal Engine. My open-source projects are available from [GitHub](https://github.com/AlmasB).
+I am a Principal Lecturer and Computing and Games Lead at Brighton University and a **big** fan of open-source software. In my spare time, I run an educational [YouTube channel](https://www.youtube.com/almasb0/videos) focusing on Java, JavaFX, Kotlin, C++, as well as game development tutorials using Unity and Unreal Engine. My open-source projects are available from [GitHub](https://github.com/AlmasB).
 
 This is an overview of what projects I am interested in for supervision (both undergraduate and postgraduate).
 
