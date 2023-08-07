@@ -1,4 +1,4 @@
-Updated 27/07/2023.
+Updated 07/08/2023.
 
 I am a Principal Lecturer and Computing and Games Lead at Brighton University and a **big** fan of open-source software. In my spare time, I run an educational [YouTube channel](https://www.youtube.com/almasb0/videos) focusing on Java, JavaFX, Kotlin, C++, as well as game development tutorials using Unity and Unreal Engine. My open-source projects are available from [GitHub](https://github.com/AlmasB).
 
